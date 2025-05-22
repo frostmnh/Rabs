@@ -15,6 +15,7 @@ Arch Linux 的 **遠端 AUR 建置** 系統, 一個至於讓 **多台電腦** �
 基本上會有兩個程式, 一個用於伺服器,一個用於客戶端.
 客戶端 向伺服器請求 軟體包的編譯, 伺服器負責編譯
 
+詳情請看Wiki https://github.com/frostmnh/Rabs/wiki/%E9%80%99%E5%80%8B%E5%A6%82%E4%BD%95%E9%81%8B%E4%BD%9C-How-does-this-work%3F
 # 暫定功能 Features
 
  - 自動對你目前電腦的AUR 進行編譯。
@@ -35,6 +36,9 @@ Arch Linux 的 **遠端 AUR 建置** 系統, 一個至於讓 **多台電腦** �
 # 文檔 Documents？
 
 待更新。(PS:這個軟體都沒有開發出來 or 開發完成，你覺得會有文檔嗎？)
+
+好吧，現在有了。https://github.com/frostmnh/Rabs/wiki
+
 
 # 開發進度 development progress？
 1. - [ ] 我需要決定一下許可證問題。
